@@ -1,6 +1,6 @@
 # Renewable Energy Competition
 
-This project was part of an internal competition in our class, where the challenge was to devise five unique questions for peers to answer using a provided dataset. The questions were designed to test our budding skills in data analysis and encourage exploration of interesting dataset interactions. Examples of these questions include calculating the average population density within specific latitude and longitude ranges, or assessing the per capita energy consumption from non-nuclear sources.
+This project was part of an internal competition in our class, where the challenge was to devise five unique questions for peers to answer using a provided dataset. The questions were designed to test our budding skills in data analysis and encourage exploration of interesting dataset interactions. Examples of these questions include calculating the average population density within specific latitude and longitude ranges, or assessing the per capita energy consumption from non-nuclear sources. Link: https://www.kaggle.com/datasets/imtkaggleteam/renewable-energy-1960-2023/data
 
 # Objectives and Learning Outcomes
 The main aim was to apply our introductory knowledge of data analysis to create engaging and thought-provoking questions. My approach involved:
