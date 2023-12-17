@@ -1,6 +1,6 @@
 # House Prices Regression
 
-This project showcases my work on the "House Prices - Advanced Regression Techniques" Kaggle Competition. It was one of my initial ventures into complex regression problems, with the primary objective of enhancing my understanding and skills in multifaceted regression scenarios.
+This project showcases my work on the "House Prices - Advanced Regression Techniques" Kaggle Competition. It was one of my initial ventures into complex regression problems, with the primary objective of enhancing my understanding and skills in multifaceted regression scenarios. Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 
 # Objectives and Learning Outcomes
 The primary goal was to familarize myself with various regression techniques and to explore different methodologies for model improvement. Throughout the project, I experimented with:
