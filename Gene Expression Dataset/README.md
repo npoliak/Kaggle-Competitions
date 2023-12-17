@@ -1,6 +1,6 @@
 # Gene Expression Dataset
 
-This project is a detailed exploration of the Gene Expression Dataset available on Kaggle, undertaken as a key component of my final 1st semester project in my class. My primary focus was on applying PCA analysis to handle massive multidimensional data effectively. This project reflects my efforts to thoroughly analyze the dataset and develop an efficient model.
+This project is a detailed exploration of the Gene Expression Dataset available on Kaggle, undertaken as a key component of my final 1st semester project in my class. My primary focus was on applying PCA analysis to handle massive multidimensional data effectively. This project reflects my efforts to thoroughly analyze the dataset and develop an efficient model. Link: https://www.kaggle.com/datasets/crawford/gene-expression
 
 # Objectives and Learning Outcomes
 The main objective was to gain hands-on experience in managing and interpreting large-scale genetic data. Key techniques and methods I employed include:
