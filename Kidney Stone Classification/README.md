@@ -1,6 +1,6 @@
 # Binary Classification with a Tabular Kidney Stone Prediction Dataset
 
-This project involved participating in the "Binary Classification with a Tabular Kidney Stone Prediction Dataset" competition on Kaggle. The primary aim was to demonstrate my proficiency in building an effective classification model, in collaboration with a partner. Our approach included an initial exploration of the dataset, strategizing on model development, and finally evaluating and submitting our model.
+This project involved participating in the "Binary Classification with a Tabular Kidney Stone Prediction Dataset" competition on Kaggle. The primary aim was to demonstrate my proficiency in building an effective classification model, in collaboration with a partner. Our approach included an initial exploration of the dataset, strategizing on model development, and finally evaluating and submitting our model. Link: https://www.kaggle.com/competitions/playground-series-s3e12
 
 # Objectives and Learning Outcomes
 
