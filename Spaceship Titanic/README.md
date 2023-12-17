@@ -1,6 +1,6 @@
 # Spaceship Titanic Classification: Kaggle Competition
 
-This project entails a classification challenge from the Spaceship Titanic competition on Kaggle. My primary goal was to develop a highly accurate model, placing a greater emphasis on precision over efficiency and computational time. This approach led to a commendable achievement, placing me within the top 50 competitors.
+This project entails a classification challenge from the Spaceship Titanic competition on Kaggle. My primary goal was to develop a highly accurate model, placing a greater emphasis on precision over efficiency and computational time. This approach led to a commendable achievement, placing me within the top 50 competitors. Link: https://www.kaggle.com/c/spaceship-titanic
 
 # Objectives and Learning Outcomes
 The central strategy for this competition involved constructing a robust pipeline to effectively utilize features that significantly impacted the outcome. The pipeline consisted of three primary components:
