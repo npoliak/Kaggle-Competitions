@@ -1,6 +1,6 @@
 # Olympic Games Athlete Performance
 
-This notebook represents an assignment focused on leveraging the visualization capabilities of Seaborn and Matplotlib. The dataset used for this purpose includes a variety of attributes: Name, Sex, Height, Weight, Team, NOC (National Olympic Committees), Games, Year, Season, City, Sport, Event, and Medal. The primary objective was to explore different ways of graphically depicting relationships between these features.
+This notebook represents an assignment focused on leveraging the visualization capabilities of Seaborn and Matplotlib. The dataset used for this purpose includes a variety of attributes: Name, Sex, Height, Weight, Team, NOC (National Olympic Committees), Games, Year, Season, City, Sport, Event, and Medal. The primary objective was to explore different ways of graphically depicting relationships between these features. Link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 # Objectives and Learning Outcomes
 
